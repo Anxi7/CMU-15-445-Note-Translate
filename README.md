@@ -1,2 +1,3 @@
-# CMU-15-445-Note-Translate
-CMU15-445 Note的翻译及笔记(md文件)
+# CMU_15445 Note Translate
+在本项目中，包括了我在阅读CMU 15-445数据库系统的Note时，所做的笔记和对应Note的翻译Markdown文件  
+由于本人水平和精力有限，翻译中未免有许多错误和不严谨之初，强烈建议大家对照英文原版食用
