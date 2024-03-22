@@ -32,9 +32,9 @@ CSV文件通常被用于在不同的程序之间传输数据，因为它是一�
 下面是一个使用(name, year, country)模式存储艺人信息的CSV文件实例。
 
 ```powershell
-    Wu-Tang Clan, 1992, USA
-    Notorious BIG, 1992, USA
-    GZE, 1990, USA
+Wu-Tang Clan, 1992, USA
+Notorious BIG, 1992, USA
+GZE, 1990, USA
 ```
 
 - 扁平文件存在的问题
